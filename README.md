@@ -9,13 +9,21 @@ Welcome to the GitHub repository for the Dhatu Udyog Pvt Limited freelance websi
 
 # Table of Contents
 Introduction
+
 Screenshots
+
 Features
+
 Technologies Used
+
 Installation
+
 Usage
+
 Contributing
+
 Contact
+
 
 # Introduction
 Dhatu Udyog Pvt Limited is a renowned company in India, specializing in the manufacturing of steel and iron products. This project involves the creation of a freelance website that showcases the company's products, services, and other relevant information. The goal is to provide an intuitive and engaging user experience for potential clients and partners.
