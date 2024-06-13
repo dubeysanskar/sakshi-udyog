@@ -1,5 +1,5 @@
 # Sakshi udyog pvt ltd
-Your site is live at https://dubeysanskar.github.io/sakshi-udyog/
+The site is live at https://dubeysanskar.github.io/sakshi-udyog/
 
 # Dhatu Udyog Pvt Limited - Freelance Website Project
 Welcome to the GitHub repository for the Dhatu Udyog Pvt Limited freelance website project. This project aims to create a professional and user-friendly website for a company specializing in steel and iron manufacturing in India in LIGHT and DARK modes. The website is built using HTML, CSS, and JavaScript.
